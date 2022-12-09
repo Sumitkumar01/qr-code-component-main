@@ -24,7 +24,7 @@ body {
     place-content: center;
     width: 100%;
     height: 100%;
-    background-color: var(--Grayish-blue);
+    background-color: var(--Light-gray);
 }
 figure{
     border-radius: 1rem;
